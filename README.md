@@ -7,9 +7,7 @@
   <!-- About Me -->
   <h2>🧭 About Me</h2>
   <ul>
-    <li>🛰️ Geospatial specialist with a focus on <strong>spatial analysis, interactive mapping, and data visualisation</strong></li>
-    <li>💡 Interested in using geospatial technology for <strong>urban planning, environmental consultancy, and smart cities</strong></li>
-    <li>🤝 Open to collaborating and opportunities on <strong>Geospatial solutions, open data initiatives, and remote sensing</strong></li>
+    🛰️ I am a Geospatial specialist with strong interest on <strong>spatial analysis, interactive mapping, and data visualisation</strong>. I am interested in using geospatial technology for <strong>urban planning, environmental consultancy, and sustainable city development</strong>🤝 Open to collaborating and opportunities on <strong>Geospatial solutions, Cartography, and remote sensing</strong></li>
   </ul>
   <hr>
 
