@@ -22,19 +22,19 @@
     </tr>
     <tr>
       <td>GIS & Geospatial</td>
-      <td>FME | ArcGIS Pro | QGIS | LiDAR Processing | Geovisualisation | Web GIS</td>
+      <td>ArcGIS Pro | QGIS | StoryMap | Leaflet | OpenLayers | Google Earth Engine </td>
     </tr>
     <tr>
       <td>Programming</td>
-      <td>Python (GeoPandas, Shapely, Rasterio) | SQL & Spatial Databases (PostGIS) | JavaScript | R</td>
+      <td>Python | SQL & Spatial Databases (PostGIS) | JavaScript | R</td>
     </tr>
     <tr>
-      <td>3D & Design</td>
-      <td>Blender | Adobe Illustrator</td>
+      <td>3D & Cartography</td>
+      <td>Blender | Adobe Illustrator | Affinity Designer</td>
     </tr>
     <tr>
       <td>Other Tools</td>
-      <td>Git & GitHub | Web Mapping (Leaflet, Mapbox) | Cloud Platforms (AWS / Google Earth Engine basics)</td>
+      <td>AutoCAD | Revit | Power BI</td>
     </tr>
   </table>
   <hr>
@@ -43,12 +43,9 @@
   <h3>🚀 Flagship Projects</h3>
   <ul>
     <li>🛰️ <strong>LiDAR Data Processing:</strong> France from Above – LiDAR visualisation</li>
-    <li>🌱 <strong>Geovisualisation:</strong> FME workflows for spatial analysis</li>
+    <li>🌱 <strong>Geovisualisation:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/geovisualisation" target="_blank">Map Collections</a></li>
     <li>🗺️ <strong>Interactive Mapping:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a></li>
     <li>🌐 <strong>Network Analysis:</strong> <a href="https://storymaps.arcgis.com/stories/d773ddecc12545b9895f6ba436bd1782" target="_blank">15-minute city for social housing communities</a></li>
-    <li>🔹 <strong>Spatial Analysis Toolkit:</strong> Python-based tools for geospatial data processing</li>
-    <li>🔹 <strong>Urban Growth Mapping:</strong> Satellite imagery analysis of city expansion</li>
-    <li>🔹 <strong>Web GIS Dashboard:</strong> Interactive visualization of spatial datasets</li>
   </ul>
   <hr>
 
