@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi everyone & Bonjour à toutes et à tous 👋 I'm Huanlin
 
-<!--
-**Huanlin77/Huanlin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Geospatial Specialist | GIS Enthusiast | Spatial Data Storyteller**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m passionate about turning geographic data into meaningful insights, building spatial solutions, and exploring the intersection of location, technology, and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 About Me
+
+- 🛰️ Geospatial specialist with a focus on spatial analysis, mapping, and data visualization  
+- 🌱 Currently expanding my skills in **remote sensing, spatial data science, and cloud GIS**  
+- 💡 Interested in using geospatial technology for **urban planning, environmental monitoring, and smart cities**  
+- 🤝 Open to collaborating on **GIS projects, open data initiatives, and spatial analytics tools**
+
+---
+
+## 🛠️ Skills & Tools
+
+**Geospatial Technologies**
+- GIS: ArcGIS, QGIS  
+- Spatial Analysis & Modeling  
+- Remote Sensing & Image Processing  
+
+**Programming & Data**
+- Python (GeoPandas, Shapely, Rasterio)  
+- SQL & Spatial Databases (PostGIS)  
+- Data Visualization (Matplotlib, Kepler.gl)
+
+**Other Tools**
+- Git & GitHub  
+- Web Mapping (Leaflet, Mapbox)  
+- Cloud Platforms (AWS / Google Earth Engine basics)
+
+---
+
+## 📊 What I’m Working On
+
+- 🌐 Building interactive web maps and dashboards  
+- 🧪 Exploring machine learning applications in geospatial analysis  
+- 🗺️ Creating clean and reproducible spatial workflows  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 Spatial Analysis Toolkit – Python-based tools for geospatial data processing  
+- 🔹 Urban Growth Mapping – Satellite imagery analysis of city expansion  
+- 🔹 Web GIS Dashboard – Interactive visualisation of spatial datasets  
+
+---
+
+## 📫 Get in Touch
+
+- 💬 Feel free to reach out for collaboration or discussion  
+- 📧 Email: huanlinhu98@gmail.com  
+- 🌐 Portfolio: https://huanlinhu.wixsite.com/huanlin-hu
+- 💼 LinkedIn: www.linkedin.com/in/huanlin-hu-280357285  
+
+---
+
+⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect!
