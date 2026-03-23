@@ -44,10 +44,25 @@
   <ul>
     <li>🛰️ <strong>LiDAR Data Processing:</strong> France from Above – LiDAR visualisation</li>
     <li>🌱 <strong>Geovisualisation:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/geovisualisation" target="_blank">Map Collections</a></li>
-    <li>🗺️ <strong>Interactive Mapping:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a></li>
+    <li>🗺️ <strong>Interactive Mapping & Animation:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a></li>
     <li>🌐 <strong>Network Analysis:</strong> <a href="https://storymaps.arcgis.com/stories/d773ddecc12545b9895f6ba436bd1782" target="_blank">15-minute city for social housing communities</a></li>
+    <li>☀️ <strong>Sustainable Analysis:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/solarpowerpotentialanalysis" target="_blank">Solar power potential analysis</a></li>
   </ul>
   <hr>
+
+<!-- Experience & Impact -->
+<h2>🎓 Experience & Education</h2>
+<ul>
+  <li>🔹 <strong>GIS Technician | HarperCollinsPublishers  2025-2026</strong><br>
+      Built and managed PostGIS databases to ensure coordination and data sharing across the GIS team.<br>
+      Georeferenced and aligned raster datasets to enhance spatial accuracy and support high-quality cartographic outputs.
+  </li>
+  <li>🔹 <strong>MSc Applied GIS | University of Sheffield 2024-2025</strong><br>
+      MSc Dissertation: Spatial auto-regression analysis of the impact of Low Emission Zone on house prices in Lyon, France.<br>
+  </li>
+</ul>
+<hr>
+
 
   <!-- What I'm Working On -->
   <h2>📊 Independant Study</h2>
