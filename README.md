@@ -47,6 +47,7 @@
     <li>🌱 <strong>Geovisualisation:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/geovisualisation" target="_blank">Map Collections</a></li>
     <li>🗺️ <strong>Interactive Mapping:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a> , <a href="https://huanlin77.github.io/CarCrash/" target="_blank">Car crash density in SouthYorkshire</a></li>
     <li>🌐 <strong>Network Analysis:</strong> <a href="https://storymaps.arcgis.com/stories/d773ddecc12545b9895f6ba436bd1782" target="_blank">15-minute city for social housing communities</a></li>
+    🔹📂 <a href="https://github.com/Huanlin77/15-minute-city" target="_blank">View Repository</a>
     <li>☀️ <strong>Sustainable Analysis:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/solarpowerpotentialanalysis" target="_blank">Solar power potential analysis</a></li>
   </ul>
   <hr>
