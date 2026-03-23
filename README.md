@@ -50,22 +50,21 @@
   <hr>
 
   <!-- What I'm Working On -->
-  <h2>📊 What I’m Working On</h2>
+  <h2>📊 Independant Study</h2>
   <ul>
     <li>🌐 Building interactive web maps and dashboards</li>
-    <li>🧪 Exploring machine learning applications in geospatial analysis</li>
-    <li>🗺️ Creating clean and reproducible spatial workflows</li>
+    <li>🧪 Exploring GeoAI applications in geospatial analysis</li>
+    <li>🗺️ Learning FME</li>
   </ul>
   <hr>
 
   <!-- Get in Touch -->
   <h2>📫 Get in Touch</h2>
   <ul>
-    <li>💬 Feel free to reach out for collaboration or discussion</li>
+    <li>💬 Open for any opportunities related to data, GIS in English and French-speaking environments </li>
     <li>📧 Email: <a href="mailto:huanlinhu98@gmail.com">huanlinhu98@gmail.com</a></li>
     <li>🌐 Portfolio: <a href="https://huanlinhu.wixsite.com/huanlin-hu" target="_blank">https://huanlinhu.wixsite.com/huanlin-hu</a></li>
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/huanlin-hu-280357285" target="_blank">linkedin.com/in/huanlin-hu-280357285</a></li>
   </ul>
   <hr>
 
-  <p>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect!</p>
