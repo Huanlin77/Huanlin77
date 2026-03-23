@@ -1,62 +1,74 @@
-# Hi everyone & Bonjour à toutes et à tous 👋 I'm Huanlin
+<!-- Header -->
+  <h1 align="center">Hi everyone & Bonjour à toutes et à tous 👋</h1>
+  <h3 align="center">I'm Huanlin</h3>
+  <p align="center">🌍 <strong>Geospatial Specialist | GIS Analyst | Spatial Data Storyteller</strong></p>
+  <hr>
 
-🌍 **Geospatial Specialist | GIS Enthusiast | Spatial Data Storyteller**
+  <!-- About Me -->
+  <h2>🧭 About Me</h2>
+  <ul>
+    <li>🛰️ Geospatial specialist with a focus on <strong>spatial analysis, interactive mapping, and data visualisation</strong></li>
+    <li>💡 Interested in using geospatial technology for <strong>urban planning, environmental consultancy, and smart cities</strong></li>
+    <li>🤝 Open to collaborating and opportunities on <strong>Geospatial solutions, open data initiatives, and remote sensing</strong></li>
+  </ul>
+  <hr>
 
-Welcome to my GitHub profile! I’m passionate about turning geographic data into meaningful insights, building spatial solutions, and exploring the intersection of location, technology, and real-world impact.
+  <!-- Skills & Tools -->
+  <h2>🛠️ Skills & Tools</h2>
+  <table border="1" cellspacing="0" cellpadding="6">
+    <tr>
+      <th>Category</th>
+      <th>Tools & Technologies</th>
+    </tr>
+    <tr>
+      <td>GIS & Geospatial</td>
+      <td>FME | ArcGIS Pro | QGIS | LiDAR Processing | Geovisualisation | Web GIS</td>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Python (GeoPandas, Shapely, Rasterio) | SQL & Spatial Databases (PostGIS) | JavaScript | R</td>
+    </tr>
+    <tr>
+      <td>3D & Design</td>
+      <td>Blender | Adobe Illustrator</td>
+    </tr>
+    <tr>
+      <td>Other Tools</td>
+      <td>Git & GitHub | Web Mapping (Leaflet, Mapbox) | Cloud Platforms (AWS / Google Earth Engine basics)</td>
+    </tr>
+  </table>
+  <hr>
 
----
+  <!-- Flagship Projects -->
+  <h3>🚀 Flagship Projects</h3>
+  <ul>
+    <li>🛰️ <strong>LiDAR Data Processing:</strong> France from Above – LiDAR visualisation</li>
+    <li>🌱 <strong>Geovisualisation:</strong> FME workflows for spatial analysis</li>
+    <li>🗺️ <strong>Interactive Mapping:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a></li>
+    <li>🌐 <strong>Network Analysis:</strong> <a href="https://storymaps.arcgis.com/stories/d773ddecc12545b9895f6ba436bd1782" target="_blank">15-minute city for social housing communities</a></li>
+    <li>🔹 <strong>Spatial Analysis Toolkit:</strong> Python-based tools for geospatial data processing</li>
+    <li>🔹 <strong>Urban Growth Mapping:</strong> Satellite imagery analysis of city expansion</li>
+    <li>🔹 <strong>Web GIS Dashboard:</strong> Interactive visualization of spatial datasets</li>
+  </ul>
+  <hr>
 
-## 🧭 About Me
+  <!-- What I'm Working On -->
+  <h2>📊 What I’m Working On</h2>
+  <ul>
+    <li>🌐 Building interactive web maps and dashboards</li>
+    <li>🧪 Exploring machine learning applications in geospatial analysis</li>
+    <li>🗺️ Creating clean and reproducible spatial workflows</li>
+  </ul>
+  <hr>
 
-- 🛰️ Geospatial specialist with a focus on spatial analysis, mapping, and data visualization  
-- 🌱 Currently expanding my skills in **remote sensing, spatial data science, and cloud GIS**  
-- 💡 Interested in using geospatial technology for **urban planning, environmental monitoring, and smart cities**  
-- 🤝 Open to collaborating on **GIS projects, open data initiatives, and spatial analytics tools**
+  <!-- Get in Touch -->
+  <h2>📫 Get in Touch</h2>
+  <ul>
+    <li>💬 Feel free to reach out for collaboration or discussion</li>
+    <li>📧 Email: <a href="mailto:huanlinhu98@gmail.com">huanlinhu98@gmail.com</a></li>
+    <li>🌐 Portfolio: <a href="https://huanlinhu.wixsite.com/huanlin-hu" target="_blank">https://huanlinhu.wixsite.com/huanlin-hu</a></li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/huanlin-hu-280357285" target="_blank">linkedin.com/in/huanlin-hu-280357285</a></li>
+  </ul>
+  <hr>
 
----
-
-## 🛠️ Skills & Tools
-
-**Geospatial Technologies**
-- GIS: ArcGIS, QGIS  
-- Spatial Analysis & Modeling  
-- Remote Sensing & Image Processing  
-
-**Programming & Data**
-- Python (GeoPandas, Shapely, Rasterio)  
-- SQL & Spatial Databases (PostGIS)  
-- Data Visualization (Matplotlib, Kepler.gl)
-
-**Other Tools**
-- Git & GitHub  
-- Web Mapping (Leaflet, Mapbox)  
-- Cloud Platforms (AWS / Google Earth Engine basics)
-
----
-
-## 📊 What I’m Working On
-
-- 🌐 Building interactive web maps and dashboards  
-- 🧪 Exploring machine learning applications in geospatial analysis  
-- 🗺️ Creating clean and reproducible spatial workflows  
-
----
-
-## 📌 Featured Projects
-
-- 🔹 Spatial Analysis Toolkit – Python-based tools for geospatial data processing  
-- 🔹 Urban Growth Mapping – Satellite imagery analysis of city expansion  
-- 🔹 Web GIS Dashboard – Interactive visualisation of spatial datasets  
-
----
-
-## 📫 Get in Touch
-
-- 💬 Feel free to reach out for collaboration or discussion  
-- 📧 Email: huanlinhu98@gmail.com  
-- 🌐 Portfolio: https://huanlinhu.wixsite.com/huanlin-hu
-- 💼 LinkedIn: www.linkedin.com/in/huanlin-hu-280357285  
-
----
-
-⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect!
+  <p>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect!</p>
