@@ -34,12 +34,14 @@
     <tr>
       <td> 3D & Cartography </td>
       <td>  
-        <p align="left"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50" alt="PostgreSQL">  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  <img src= "https://www.r-project.org/Rlogo.png" width="50" height="50" alt="R"></p>
-      Blender | Adobe Illustrator | Affinity Designer</td>
+        <p align="left"> <img src= "https://download.blender.org/branding/community/blender_community_badge_white.svg" width="60" height="60" alt="Blender"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50" height="50" alt="AI">  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/960px-Affinity_%28App%29_Logo.svg.png" width="50" height="50" alt="Affinity Designer"></p>
+      </td>
     </tr>
     <tr>
       <td>Other Tools</td>
-      <td>AutoCAD | Revit | Power BI</td>
+      <td>
+        <p align="left"> <img src= "https://images.seeklogo.com/logo-png/48/2/autocad-logo-png_seeklogo-482394.png" width="60" height="60" alt="AutoCAD"><img src="https://images.seeklogo.com/logo-png/48/2/autodesk-revit-logo-png_seeklogo-482393.png" width="80" height="60" alt="Revit">  <img src= "https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" width="50" height="50" alt="Power BI"></p>
+      </td>
     </tr>
   </table>
   <hr>
