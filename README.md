@@ -9,9 +9,7 @@
   <ul>
     🛰️ I am a Geospatial specialist with strong interest on <strong>spatial analysis, interactive mapping, and data visualisation</strong>. I am interested in using geospatial technology for <strong>urban planning, environmental consultancy, and sustainable city development</strong>🤝 Open to collaborating and opportunities on <strong>Geospatial solutions, Cartography, and remote sensing</strong></li>
   </ul>
-  <div>
-  <img src="./GitHub_Pictures/argis-pro-logo-Photoroom.png" width="100" alt="ArcGIS Pro Logo">
-  </div>
+
   <hr>
 
   <!-- Skills & Tools -->
@@ -24,19 +22,20 @@
     <tr>
       <td>GIS & Geospatial</td>
       <td>
-
-        ArcGIS Pro | QGIS | StoryMap | Leaflet | OpenLayers | Google Earth Engine 
-      
-      
+          <p align="left"> <img src= "https://www.esriuk.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" height="50" alt="ArcGIS Pro Logo">  <img src="https://qgis.org/img/logosign.svg" width="50" height="50" alt="QGIS Logo">  <img src= "https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/StoryMaps.png" width="50" height="50" alt="StoryMaps">  <img src= "https://earthengine.google.com/static/images/earth_engine_logo.png" width="200" height="200" alt="Google Earth Engine"> <img src= "https://leafletjs.com/docs/images/logo.png" width="120" height="120" alt="leaflet"> <img src= "https://openlayers.org/theme/img/logo-dark.svg" width="50" height="50" alt="openlayers"></p>
       </td>
     </tr>
     <tr>
       <td>Programming</td>
-      <td>Python | SQL & Spatial Databases (PostGIS) | JavaScript | R</td>
+      <td>
+        <p align="left"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50" alt="PostgreSQL">  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  <img src= "https://www.r-project.org/Rlogo.png" width="50" height="50" alt="R"></p>
+      </td>
     </tr>
     <tr>
-      <td>3D & Cartography</td>
-      <td>Blender | Adobe Illustrator | Affinity Designer</td>
+      <td> 3D & Cartography </td>
+      <td>  
+        <p align="left"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50" alt="PostgreSQL">  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  <img src= "https://www.r-project.org/Rlogo.png" width="50" height="50" alt="R"></p>
+      Blender | Adobe Illustrator | Affinity Designer</td>
     </tr>
     <tr>
       <td>Other Tools</td>
