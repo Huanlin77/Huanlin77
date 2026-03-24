@@ -9,6 +9,9 @@
   <ul>
     🛰️ I am a Geospatial specialist with strong interest on <strong>spatial analysis, interactive mapping, and data visualisation</strong>. I am interested in using geospatial technology for <strong>urban planning, environmental consultancy, and sustainable city development</strong>🤝 Open to collaborating and opportunities on <strong>Geospatial solutions, Cartography, and remote sensing</strong></li>
   </ul>
+  <div>
+  <img src="./GitHub_Pictures/argis-pro-logo-Photoroom.png" width="100" alt="ArcGIS Pro Logo">
+  </div>
   <hr>
 
   <!-- Skills & Tools -->
@@ -20,7 +23,12 @@
     </tr>
     <tr>
       <td>GIS & Geospatial</td>
-      <td>ArcGIS Pro | QGIS | StoryMap | Leaflet | OpenLayers | Google Earth Engine </td>
+      <td>
+
+        ArcGIS Pro | QGIS | StoryMap | Leaflet | OpenLayers | Google Earth Engine 
+      
+      
+      </td>
     </tr>
     <tr>
       <td>Programming</td>
