@@ -40,8 +40,8 @@
   <!-- Flagship Projects -->
   <h3>🚀 Flagship Projects</h3>
   <ul>
-    <li>🛰️ <strong>LiDAR Data Processing:</strong> France Bird's eye view – LiDAR visualisation</li>
-    🔹📂 View Repository
+    <li>🛰️ <strong>LiDAR Data Processing & DSM Visualisation:</strong> France Bird's eye view – Shadow Analysis</li>
+    🔹📂 <a href="https://github.com/Huanlin77/15-minute-city"></a>View Repository</a>
     <li>🌱 <strong>Geovisualisation:</strong> <a href="https://huanlinhu.wixsite.com/huanlin-hu/geovisualisation" target="_blank">Map Collections</a></li>
     <li>🗺️ <strong>Interactive Mapping:</strong> <a href="https://huanlin77.github.io/Glasgow-Cycling/" target="_blank">Cycling Analysis in Glasgow</a> , <a href="https://huanlin77.github.io/CarCrash/" target="_blank">Car crash density in SouthYorkshire</a></li>
     <li>🌐 <strong>Network Analysis:</strong> <a href="https://storymaps.arcgis.com/stories/d773ddecc12545b9895f6ba436bd1782" target="_blank">15-minute city for social housing communities</a></li>
