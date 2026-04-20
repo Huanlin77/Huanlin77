@@ -22,7 +22,7 @@
     <tr>
       <td>GIS & Geospatial</td>
       <td>
-          <p align="left"> <img src= "https://www.esriuk.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" height="50" alt="ArcGIS Pro Logo">  <img src="https://qgis.org/img/logosign.svg" width="50" height="50" alt="QGIS Logo">  <img src= "https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/StoryMaps.png" width="50" height="50" alt="StoryMaps">  <img src= "https://earthengine.google.com/static/images/earth_engine_logo.png" width="200" height="200" alt="Google Earth Engine"> <img src= "https://leafletjs.com/docs/images/logo.png" width="120" height="120" alt="leaflet"> <img src= "https://openlayers.org/theme/img/logo-dark.svg" width="50" height="50" alt="openlayers"></p>
+          <p align="left"> <img src= "https://www.esriuk.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" height="50" alt="ArcGIS Pro Logo">  <img src="https://qgis.org/img/logosign.svg" width="50" height="50" alt="QGIS Logo">  <img src= "https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/StoryMaps.png" width="50" height="50" alt="StoryMaps">  </p>
       </td>
     </tr>
     <tr>
